@@ -1,9 +1,12 @@
-### Hi there 👋, April
-#### Web Development
 ![Web Development](https://pbs.twimg.com/profile_banners/1542919989249953792/1663774272/600x200)
+
+### Hi there 👋, I'm April Wairimu
 
 A hardworking software developer  focused on going  above and beyond  to exceed my targets. Talents include Python,Django,flask,Django-Rest-Framework,Html,CSS,Database. Am able to adapt to change ,work in a team, communicate fluently,multitasking abilities and outstanding time management.
 
+
+
+## Skills and Experience
 Skills: |ANGULAR| PYTHON | FLASK| DJANGO | HTML | CSS
 
 
