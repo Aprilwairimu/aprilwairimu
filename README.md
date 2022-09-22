@@ -16,4 +16,4 @@ Skills: |ANGULAR| PYTHON | FLASK| DJANGO | HTML | CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aprilwairimu)](https://github.com/anuraghazra/github-readme-stats)
+
