@@ -22,21 +22,15 @@ Skills: |ANGULAR| PYTHON | FLASK| DJANGO | HTML | CSS
 - 📫 How to reach me: wairimuapril@gmail.com
 - ⚡ Fun fact: Hard work eventually pays. 
      
-     
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aprilwairimu)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/April Wairimu/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/April Wairimu)  
-
-
-
-
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aprilwairimu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AprilWairimu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AprilWairimu)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leenduati)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aprilwairimu)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=leenduati&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aprilwairimu&show_icons=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/leenduati)  
+![GitHub metrics](https://metrics.lecoq.io/Aprilwairimu)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=leenduati)  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aprilwairimu)  
 
