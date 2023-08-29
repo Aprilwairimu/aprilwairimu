@@ -2,7 +2,7 @@
 
 # April Wairimu
 
-A hardworking software developer  focused on going  above and beyond  to exceed my targets. Talents include Python,Django,flask,Django-Rest-Framework,Html,CSS,Database. Am able to adapt to change ,work in a team, communicate fluently,multitasking abilities and outstanding time management.
+I am a diligent and goal-oriented software developer committed to surpassing expectations and delivering exceptional results. With a strong foundation in a diverse range of technologies and programming languages, I bring expertise in React.js, React Native, Python, Django, Flask, and Django Rest Framework.
 
 
 
@@ -10,6 +10,13 @@ A hardworking software developer  focused on going  above and beyond  to exce
 
 
 Skills: |ANGULAR| PYTHON | FLASK| DJANGO | HTML | CSS
+![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
+![Python Icon](https://img.icons8.com/color/48/000000/python.png)
+![Flask Icon](https://img.icons8.com/ios/50/000000/flask.png)
+![Django Icon](https://img.icons8.com/color/48/000000/django.png)
+![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+
 
 ## Contact
 
