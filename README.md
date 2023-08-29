@@ -9,13 +9,17 @@ I am a diligent and goal-oriented software developer committed to surpassing exp
 ## Skills and Experience
 
 
-Skills: |ANGULAR| PYTHON | FLASK| DJANGO | HTML | CSS
+Skills: 
 ![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 ![Flask Icon](https://img.icons8.com/ios/50/000000/flask.png)
 ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
 ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+![React Native Icon](https://img.icons8.com/color/48/000000/react-native.png)
+![Express Icon](https://img.icons8.com/ios/50/000000/express.png)
+![React JS Icon](https://img.icons8.com/color/48/000000/react-native.png)
+
 
 
 ## Contact
