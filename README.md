@@ -26,7 +26,10 @@ Skills:
 
 - 📫 How to reach me: wairimuapril@gmail.com
 
- 
+ https://img.shields.io/github/workflow/status/Aprilwairimu/my-awesome-project/Build%20and%20Deploy
+ ![Build and Deploy](https://img.shields.io/github/workflow/status/Aprilwairimu/my-awesome-project/Build%20and%20Deploy)
+
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Aprilwairimu)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/AprilWairimu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@AprilWairimu)  
 
