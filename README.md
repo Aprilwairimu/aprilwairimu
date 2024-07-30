@@ -1,26 +1,52 @@
-![Web Development](https://pbs.twimg.com/profile_banners/1542919989249953792/1663774272/600x200)
+#  Hi 👋, I'm April Wairimu
 
-# April Wairimu
-
-I am a diligent and goal-oriented software developer committed to surpassing expectations and delivering exceptional results. With a strong foundation in a diverse range of technologies and programming languages, I bring expertise in React.js, React Native, Python, Django, Flask, and Django Rest Framework.
-
+A dedicated and results-driven software developer with a proven track record of exceeding expectations. With extensive expertise in a broad spectrum of technologies and programming languages, I specialize in React.js, React Native, Python, Django, Flask, and Django Rest Framework. My commitment to continuous learning and problem-solving drives me to deliver innovative and high-quality solutions.
 
 
 ## Skills and Experience
 
 
-Skills: 
-![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
+Skills: Programming Languages
+
+![React JS Icon](https://img.icons8.com/color/48/000000/react-js.png)
+
 ![Python Icon](https://img.icons8.com/color/48/000000/python.png)
 
+Skills: Frontend Development
+
+![React JS Icon](https://img.icons8.com/color/48/000000/react-js.png)
+
+![Angular Icon](https://img.icons8.com/color/48/000000/angularjs.png)
+
+Skills: Backend Development
+
 ![Django Icon](https://img.icons8.com/color/48/000000/django.png)
+
 ![HTML Icon](https://img.icons8.com/color/48/000000/html-5.png)
+
+Skills: Mobile App Development
+
 ![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
 
 ![Express Icon](https://img.icons8.com/ios/50/000000/express.png)
-![React JS Icon](https://img.icons8.com/color/48/000000/react-native.png)
 
+Skills: Database
 
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+
+![Express Icon](https://img.icons8.com/ios/50/000000/express.png)
+
+Skills: Backend as a Service(BaaS)
+
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+
+![Express Icon](https://img.icons8.com/ios/50/000000/express.png)
+
+Skills: Framework
+
+![CSS Icon](https://img.icons8.com/color/48/000000/css3.png)
+
+![Express Icon](https://img.icons8.com/ios/50/000000/express.png)
 
 ## Contact
 
