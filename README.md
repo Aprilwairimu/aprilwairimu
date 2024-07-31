@@ -1,3 +1,4 @@
+
 #  Hi 👋, I'm April Wairimu
 
 A dedicated and results-driven software developer with a proven track record of exceeding expectations. With extensive expertise in a broad spectrum of technologies and programming languages, I specialize in React.js, React Native, Python, Django, Flask, and Django Rest Framework. My commitment to continuous learning and problem-solving drives me to deliver innovative and high-quality solutions.
@@ -91,18 +92,22 @@ A dedicated and results-driven software developer with a proven track record of 
 
 ## 📊 GitHub Stats:
 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Aprilwairimu) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/AprilWairimu/) 
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>(https://twitter.com/@AprilWairimu)  
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aprilwairimu)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Aprilwairimu&show_icons=true)  
 
-<!--END_SECTION:waka-->     ![GitHub metrics](https://metrics.lecoq.io/Aprilwairimu)  
+![GitHub metrics](https://metrics.lecoq.io/Aprilwairimu)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Aprilwairimu)  
 
+
+## 📊 Social Networks:
+
+<img align="center" width="100%" color="blue" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>(https://github.com/Aprilwairimu) 
+<br>
+<img align="center" width="100%" color="blue" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>(https://www.linkedin.com/in/AprilWairimu/) 
+<br>
+<img align="center" width="100%" color="blue" src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>(https://twitter.com/@AprilWairimu)  
 
 
 <!--END_SECTION:waka-->
